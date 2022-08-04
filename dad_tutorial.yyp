@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"startup","path":"scripts/startup/startup.yy",},"order":0,},
+    {"id":{"name":"oBanana","path":"objects/oBanana/oBanana.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
